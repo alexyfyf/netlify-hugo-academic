@@ -29,9 +29,17 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 100%
-  icon: computer-code
+  icon: laptop-code
   icon_pack: fas
   name: Bioinformatics
+- description: 80%
+  icon: hiking
+  icon_pack: fas
+  name: Hiking
+- description: 80%
+  icon: utensil
+  icon_pack: fas
+  name: Cooking
 
 
 # Uncomment to use emoji icons.
