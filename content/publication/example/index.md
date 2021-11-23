@@ -39,7 +39,7 @@ image:
   preview_only: false
   filename: 13059_2020_1929_fig2_html.webp
   alt_text: "Roadmap of a typical ATAC-seq analysis. "
-date: 2021-11-23T10:56:16.216Z
+date: 2020-11-23T10:56:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
