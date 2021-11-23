@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: feng.yan@monash.edu
 phone: 888 888 88 88
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: 99 Commercial Road
+  city: Melbourne
+  region: VIC
+  postcode: '3168'
+  country: Australia
+  country_code: Aus
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
@@ -41,7 +41,7 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/alexyfyf'
   - icon: skype
     icon_pack: fab
     name: Skype Me
