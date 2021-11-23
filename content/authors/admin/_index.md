@@ -6,6 +6,8 @@ bio: My research interests include bioinformatics and epigenetics specifically
 interests:
   - Bioinformatics
   - Epigenetics
+  - Data visualization
+  - Muti-omics
 social:
   - icon: envelope
     icon_pack: fas
