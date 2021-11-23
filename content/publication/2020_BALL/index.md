@@ -1,5 +1,5 @@
 ---
-abstract: 
+abstract:
 slides: ""
 url_pdf: ""
 publication_types:
@@ -23,7 +23,7 @@ featured: true
 tags:
   - Biomarker
 categories:
-  - RMA-seq
+  - RNA-seq
 projects:
   - Leukemia
 image:
