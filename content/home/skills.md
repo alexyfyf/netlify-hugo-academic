@@ -37,7 +37,7 @@ feature:
   icon_pack: fas
   name: Hiking
 - description: 80%
-  icon: utensil
+  icon: utensils
   icon_pack: fas
   name: Cooking
 
