@@ -1,50 +1,40 @@
 ---
-abstract: Assay of Transposase Accessible Chromatin sequencing (ATAC-seq) is
-  widely used in studying chromatin biology, but a comprehensive review of the
-  analysis tools has not been completed yet. Here, we discuss the major steps in
-  ATAC-seq data analysis, including pre-analysis (quality check and alignment),
-  core analysis (peak calling), and advanced analysis (peak differential
-  analysis and annotation, motif enrichment, footprinting, and nucleosome
-  position analysis). We also review the reconstruction of transcriptional
-  regulatory networks with multiomics data and highlight the current challenges
-  of each step. Finally, we describe the potential of single-cell ATAC-seq and
-  highlight the necessity of developing ATAC-seq specific analysis tools to
-  obtain biologically meaningful insights.
+abstract: 
 slides: ""
-url_pdf: "https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-020-1929-3.pdf"
+url_pdf: ""
 publication_types:
   - "2"
 authors:
   - Feng Yan
+  - Nicholas C. Wong
   - David R. Powell
   - David J. Curtis
-  - Nicholas C. Wong
 author_notes: []
-publication: Genome Biology
+publication: Leukemia
 summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: "From reads to insight: a hitchhiker’s guide to ATAC-seq data analysis"
-doi: https://doi.org/10.1186/s13059-020-1929-3
+title: "A 9-gene score for risk stratification in B-cell acute lymphoblastic leukemia"
+doi: https://doi.org/10.1038/s41375-020-0888-8
 featured: true
 tags:
-  - ATAC-seq
+  - Biomarker
 categories:
-  - ATAC-seq
+  - RMA-seq
 projects:
-  - ATAC-seq
+  - Leukemia
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-020-1929-3/MediaObjects/13059_2020_1929_Fig2_HTML.png?as=webp
-  alt_text: "Roadmap of a typical ATAC-seq analysis. "
-date: 2020-02-03T10:56:00.000Z
+  filename: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41375-020-0888-8/MediaObjects/41375_2020_888_Fig1_HTML.png?as=webp
+  alt_text: "Flow chart showing the study design of identification of 9-gene LRC score and validation in independent datasets."
+date: 2020-05-22T10:56:00.000Z
 url_slides: ""
-publishDate: 2020-02-03T00:00:00.000Z
+publishDate: 2020-05-22T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---

@@ -1,15 +1,5 @@
 ---
-abstract: Assay of Transposase Accessible Chromatin sequencing (ATAC-seq) is
-  widely used in studying chromatin biology, but a comprehensive review of the
-  analysis tools has not been completed yet. Here, we discuss the major steps in
-  ATAC-seq data analysis, including pre-analysis (quality check and alignment),
-  core analysis (peak calling), and advanced analysis (peak differential
-  analysis and annotation, motif enrichment, footprinting, and nucleosome
-  position analysis). We also review the reconstruction of transcriptional
-  regulatory networks with multiomics data and highlight the current challenges
-  of each step. Finally, we describe the potential of single-cell ATAC-seq and
-  highlight the necessity of developing ATAC-seq specific analysis tools to
-  obtain biologically meaningful insights.
+abstract: Assay of Transposase Accessible Chromatin sequencing (ATAC-seq) is widely used in studying chromatin biology, but a comprehensive review of the analysis tools has not been completed yet. Here, we discuss the major steps in ATAC-seq data analysis, including pre-analysis (quality check and alignment), core analysis (peak calling), and advanced analysis (peak differential analysis and annotation, motif enrichment, footprinting, and nucleosome position analysis). We also review the reconstruction of transcriptional regulatory networks with multiomics data and highlight the current challenges of each step. Finally, we describe the potential of single-cell ATAC-seq and highlight the necessity of developing ATAC-seq specific analysis tools to obtain biologically meaningful insights.
 slides: ""
 url_pdf: "https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-020-1929-3.pdf"
 publication_types:
@@ -35,7 +25,7 @@ tags:
 categories:
   - ATAC-seq
 projects:
-  - ATAC-seq
+  - Leukemia
 image:
   caption: ""
   focal_point: ""
