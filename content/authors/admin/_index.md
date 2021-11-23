@@ -37,6 +37,6 @@ email: feng.yan@monash.edu
 superuser: true
 highlight_name: true
 ---
-Feng (Alex) Yan is a research fellow at the Australian Centre for Blodd Diseases, Monash University. His research interests include bioinformatics and epienetics in cancers, especially multi-omics integration.
+Feng (Alex) Yan is a research fellow at the Australian Centre for Blood Diseases, Monash University. His research interests include bioinformatics and epienetics in cancers, especially multi-omics integration.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
