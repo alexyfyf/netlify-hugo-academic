@@ -37,7 +37,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: 13059_2020_1929_fig2_html.webp
+  filename: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-020-1929-3/MediaObjects/13059_2020_1929_Fig2_HTML.png?as=webp
   alt_text: "Roadmap of a typical ATAC-seq analysis. "
 date: 2020-02-03T10:56:00.000Z
 url_slides: ""
