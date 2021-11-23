@@ -10,7 +10,7 @@ abstract: Assay of Transposase Accessible Chromatin sequencing (ATAC-seq) is
   of each step. Finally, we describe the potential of single-cell ATAC-seq and
   highlight the necessity of developing ATAC-seq specific analysis tools to
   obtain biologically meaningful insights.
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "2"
