@@ -30,7 +30,10 @@ url_video: ""
 title: "From reads to insight: a hitchhiker’s guide to ATAC-seq data analysis"
 doi: https://doi.org/10.1186/s13059-020-1929-3
 featured: true
-tags: []
+tags:
+  - ATAC-seq
+categories:
+  - ATAC-seq
 projects:
   - ATAC-seq
 image:
