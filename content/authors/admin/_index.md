@@ -29,7 +29,7 @@ education:
   courses:
     - course: PhD in Bioinformatics
       institution: Monash University
-      year: 2016
+      year: 2017
     - course: BSc in Biological Sciences
       institution: Fudan University
       year: 2005
