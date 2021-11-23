@@ -20,14 +20,19 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
+- description: 100%
+  icon: dna
+  icon_pack: fas
+  name: Epigenetics
 - description: 60%
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 60%
-  icon: shuttlecock
+- description: 100%
+  icon: computer-code
   icon_pack: fas
-  name: Badminton
+  name: Bioinformatics
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
