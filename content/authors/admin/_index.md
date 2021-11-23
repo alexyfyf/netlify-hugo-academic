@@ -1,31 +1,30 @@
 ---
-title: Feng Yan
-role: Professor of Artificial Intelligence
+title: Feng (Alex) Yan
+role: Research Fellow
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bioinformatics
+  - Epigenetics
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/alexyfyf
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com.au/citations?user=-zYKZnwAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/alexyfyf
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/feng-yan-49981723/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Monash University
+    url: https://www.monash.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
