@@ -25,7 +25,7 @@ experience:
   - title: Research Fellow
     company: Monash University
     company_url: 'https://www.monash.edu/'
-    company_logo: org-m
+    company_logo: monash
     location: Melbourn, Australia
     date_start: '2021-10-01'
     date_end: ''
