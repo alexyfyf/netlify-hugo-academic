@@ -4,7 +4,7 @@
 widget: experience
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 40
@@ -36,14 +36,33 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Teaching Associate
+    company: Monash University
+    company_url: 'https://www.monash.edu/'
+    company_logo: monash
+    location: Melbourn, Australia
+    date_start: '2018-01-01'
+    date_end: '2021-09-30'
+    description: |2-
+        Tutor and demonstrate in bioinformatics and biology units for master and undergradute students.
+
+        * Immunology
+        * Human Pathology
+        * Bioinformatics
+
+  - title: Instructor
+    company: Monash University
+    company_url: 'https://www.monash.edu/'
+    company_logo: monash
+    location: Melbourn, Australia
+    date_start: '2018-01-01'
+    date_end: '2021-09-30'
+    description: |2-
+        Instructor of internal and external trainings.
+
+        * Introduction to R
+        * Introduction to Unix
+
 
 design:
   columns: '2'
