@@ -1,6 +1,6 @@
 ---
 title: Feng (Alex) Yan
-role: Research Fellow
+role: Research Officer
 bio: My research interests include bioinformatics and epigenetics specifically
   in cancers.
 interests:
@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/feng-yan-49981723/
 organizations:
-  - name: Monash University
-    url: https://www.monash.edu/
+  - name: Walter and Eliza Hall Institute (WEHI)
+    url: https://www.wehi.edu.au/
 education:
   courses:
     - course: PhD in Bioinformatics
@@ -39,6 +39,6 @@ email: feng.yan@monash.edu
 superuser: true
 highlight_name: true
 ---
-Feng (Alex) Yan is a research fellow at the Australian Centre for Blood Diseases, Monash University. His research interests include bioinformatics and epienetics in cancers, especially multi-omics integration.
+Feng (Alex) Yan is a research officer at the Walter and Eliza Hall Institute (WEHI). His research interests include bioinformatics and epienetics in cancers, especially multi-omics integration.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

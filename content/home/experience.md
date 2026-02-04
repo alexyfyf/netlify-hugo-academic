@@ -22,13 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Officer
+    company: Walter and Eliza Hall Institute (WEHI)
+    company_url: 'https://www.wehi.edu.au/'
+    company_logo: ''
+    location: Melbourne, Australia
+    date_start: '2022-10-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+
+        * Analysing
+        * Modelling
+        * Deploying
+
   - title: Research Fellow
     company: Monash University
     company_url: 'https://www.monash.edu/'
     company_logo: monash
     location: Melbourn, Australia
     date_start: '2021-10-01'
-    date_end: ''
+    date_end: '2022-09-30'
     description: |2-
         Responsibilities include:
 
