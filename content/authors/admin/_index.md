@@ -35,7 +35,7 @@ education:
     - course: BSc in Biological Sciences
       institution: Fudan University
       year: 2005
-email: feng.yan@monash.edu
+email: yan.a@wehi.edu.au
 superuser: true
 highlight_name: true
 ---

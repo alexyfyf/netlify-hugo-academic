@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: feng.yan@monash.edu
+email: yan.a@wehi.edu.au
 address:
-  street: 99 Commercial Road
-  city: Melbourne
+  street: 1G Royal Parade
+  city: Parkville
   region: VIC
-  postcode: '3168'
+  postcode: '3050'
   country: Australia
   country_code: Aus
-directions: Level 1 Walkway via The Alfred Centre
+directions: 1G Royal Parade, Parkville VIC 3050
 contact_links:
   - icon: twitter
     icon_pack: fab
